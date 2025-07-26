@@ -3,7 +3,7 @@
 # Internet Indicator for B860H v1/v2 Wrapper
 # by Lutfa Ilham
 # v1.0
-# GPIO Founder REYRE
+# GPIO Founder RIKUDO
 
 if [ "$(id -u)" != "0" ]; then
   echo "This script must be run as root" 1>&2
